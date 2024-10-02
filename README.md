@@ -1,2 +1,2 @@
-# pt-khpi
-Programming Technologies KhPI
+## Programming Technologies KhPI
+
